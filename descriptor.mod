@@ -1,10 +1,10 @@
-name="swtcwh17b"
-path="C:/Users/Parke/Documents/Paradox Interactive/Hearts of Iron IV/mod/hydrabeta"
+name="Star Wars: Palpatine's Gamble (Dev Build)"
+path="C:/Users/Parke/Documents/Paradox Interactive/Hearts of Iron IV/mod/Fork-Update2"
+picture = "tcw.png"
 tags={
 	"Alternative History"
 	"Map"
 	"Gameplay"
 	"Graphics"
 }
-supported_version="1.8.1"
-remote_file_id="1911868794"
+supported_version="1.8.*"
